@@ -133,4 +133,10 @@ form{
 input{
 	width: fit-content;
 }
-
+.imagenes {
+	cursor: pointer;
+	opacity: 50%;
+}
+.imagenes:hover {
+	opacity: 100%;
+}
