@@ -140,3 +140,6 @@ input{
 .imagenes:hover {
 	opacity: 100%;
 }
+div > h3:hover {
+	background-color: lightblue;
+}
